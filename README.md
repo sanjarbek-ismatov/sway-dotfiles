@@ -3,8 +3,8 @@ The dot files are not finished yet, but pretty functional.
 It lacks:
 - fully functional screenshot tool (partially works)
 - full UI customization
-- clipboard manager
-- power menu
+- clipboard manager (cliphist is not working well for file copying)
+- ~~power menu~~ (wlogout has been added)
 # Dependencies
 ## Optional packages
 ```bash
